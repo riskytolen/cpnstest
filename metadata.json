@@ -1,0 +1,5 @@
+{
+  "name": "Latihan Soal CPNS",
+  "description": "Aplikasi untuk berlatih soal-soal CPNS dengan format pilihan ganda yang didukung oleh AI. Soal dan penjelasan dibuat secara dinamis untuk pengalaman belajar yang efektif.",
+  "requestFramePermissions": []
+}
